@@ -149,6 +149,7 @@ body {
     font-size: 40px;
     font-weight: 700;
     text-transform: uppercase;
+    margin-left: 25px;
     margin-bottom: 27px;
 }
 
@@ -256,8 +257,8 @@ body {
 .about__text {
     display: flex;
     flex-direction: column;
-    gap: 20px;
-    line-height: 24px;
+    gap: 25px;
+    line-height: 23px;
 }
 
 .footer {
