@@ -39,6 +39,7 @@ body {
 }
 
 .header__logo {
+    cursor: pointer;
     margin-right: 150px;
     width: 145px;
     height: 105px;
@@ -196,6 +197,7 @@ body {
 }
 
 .card__text {
+    padding-bottom: 10px;
     position: relative;
     line-height: 24px;
 }
