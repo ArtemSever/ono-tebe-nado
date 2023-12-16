@@ -189,7 +189,7 @@ body {
     position: relative;
     font-size: 22px;
     font-weight: 700;
-    line-height: 26.4px;
+    line-height: 26px;
     text-transform: uppercase;
     text-decoration: underline;
 }
@@ -243,7 +243,6 @@ body {
 .about__logo-image {
     width: 148px;
     height: 114px;
-
 }
 
 .about__title {
@@ -258,7 +257,7 @@ body {
     display: flex;
     flex-direction: column;
     gap: 20px;
-    line-height: 23.48px;
+    line-height: 24px;
 }
 
 .footer {
